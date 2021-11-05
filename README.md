@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="left">
+  <a href="http://twitter.com/dandelion1124">
+    <img height="20" src="https://img.shields.io/twitter/follow/dandelion1124?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/atinfinity">
+    <img height="20" src="https://img.shields.io/github/followers/atinfinity?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/dandelion1124">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/dandelion1124/posts.svg" />
+  </a>
+  <a href="http://qiita.com/dandelion1124">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/dandelion1124/contributions.svg" />
+  </a>
+</p>
 
-<!--
-**atinfinity/atinfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=atinfinity)](https://github.com/ryo-ma/github-profile-trophy)
